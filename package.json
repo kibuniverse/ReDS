@@ -1,7 +1,7 @@
 {
   "name": "reds",
   "version": "1.0.0",
-  "main": "index.res",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build:dev": "rescript build -w"
