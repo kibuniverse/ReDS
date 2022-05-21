@@ -1,0 +1,27 @@
+{
+  "name": "reds",
+  "version": "1.0.0",
+  "main": "index.res",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:dev": "rescript build -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kibuniverse/reds.git"
+  },
+  "keywords": [
+    "rescript",
+    "DataStructure"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kibuniverse/reds/issues"
+  },
+  "homepage": "https://github.com/kibuniverse/reds#readme",
+  "description": "",
+  "devDependencies": {
+    "rescript": "^9.1.4"
+  }
+}
